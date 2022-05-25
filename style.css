@@ -1,0 +1,48 @@
+/* website by Jesse Lazard */
+
+body { background-color: skyblue;
+       color: red;
+       font-family: Nunito, Arial
+       font-sizez: 16px;}
+
+header, section, footer {
+       padding: 30px;
+       margin: 30px;
+       background-color: skyblue;
+       border: 2px solid gray;}
+
+h1 {color: slategrey
+    font-size: 28px
+    line-height: .5;
+    text-align: center;}
+
+h2 {color: blue;
+    font-size: 21px}
+
+h3 {color: darkblue;
+    font-size: 16px}
+
+h1, h2, h3{
+    font-weight: normal
+    font-style: italic;
+    margin-bottom: 20px;}
+
+header {border-bottom: 5px solid gray}
+
+ul,ol {margin: 30px, 0px;
+}
+
+Header h1{color: green}
+a {
+  color: blue;
+  text-decoration: none;
+  font-weight: bold;}
+
+.title {
+  font-size: 48px;
+  text-decoration: underline;
+}
+
+a:hover {text-decoration: underline;}
+
+P {margin: 15px, 0;}
